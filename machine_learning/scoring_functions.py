@@ -139,3 +139,6 @@ def mbd(predict, actual):
 
 def manual_accuracy(predict, actual):
     return np.mean(np.array(actual) == np.array(predict))
+
+if __name__'=' '__main__'
+ import doctest
