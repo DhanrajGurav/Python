@@ -3,7 +3,7 @@ Word Ladder is a classic problem in computer science.
 The problem is to transform a start word into an end word
 by changing one letter at a time.
 Each intermediate word must be a valid word from a given list of words.
-The goal is to find a transformation sequence
+The goal is to find a transformation sequencesdaed
 from the start word to the end word.
 
 Wikipedia: https://en.wikipedia.org/wiki/Word_ladder
